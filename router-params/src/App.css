@@ -1,6 +1,6 @@
 img {
   width: 175px;
-  float:left;
+  float: left;
   margin-left: 40px;
 }
 img.nf {
@@ -23,10 +23,10 @@ div h3 {
   margin-top: 165px;
   margin-left: auto;
   margin-right: auto;
-  text-transform:capitalize;
+  text-transform: capitalize;
 }
 div h3 span {
-  color:rgb(28, 59, 85);
+  color: rgb(28, 59, 85);
   font-weight: bold;
   margin-left: 10px;
 }
